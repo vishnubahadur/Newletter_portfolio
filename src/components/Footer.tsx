@@ -137,7 +137,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateHome, onReplayIntro })
         {/* Bottom Copyright + Utility Controls */}
         <div className="mt-8 flex flex-col items-center gap-4 border-t border-paper/30 pt-5 font-gothic text-[11px] font-medium uppercase tracking-[0.1em] text-paper/70 min-[680px]:flex-row min-[680px]:justify-between">
           <span>
-            © {year} {PROFILE.paperTitle} · All rights reserved · Gurgaon, India
+            © {year} {PROFILE.paperTitle} · All rights reserved · Butwal, Nepal
           </span>
 
           <div className="flex items-center gap-2.5">

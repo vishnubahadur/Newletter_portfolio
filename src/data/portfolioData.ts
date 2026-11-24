@@ -46,10 +46,10 @@ export const RESUME_PDF_PATH = '/assets/aistudio/VISHNU-BAHADUR_b62ecfb0.pdf';
 
 export const PROFILE = {
   fullName: 'Vishnu Bahadur Budhathoki',
-  mastheadName: 'Vishnu Bahadur',
+  mastheadName: 'Vishnu  Budhathoki',
   paperTitle: 'The Vishnu Bahadur Times',
   subtitle: 'The Personal Record of a Full-Stack Developer',
-  locationShort: 'Gurgaon, India',
+  locationShort: 'Butwal, Nepal',
   locationFull: 'Gurgaon & Hissar, India',
   editionLabel: 'The Investigation Edition',
   established: 'Est. 2021',
@@ -58,8 +58,8 @@ export const PROFILE = {
   price: 'Price: One Coffee',
   caseNumber: 'Case No. 01',
   email: 'vishnubahadur788@gmail.com',
-  phone: '8826965612',
-  phoneHref: 'tel:+918826965612',
+  phone: '9740558155',
+  phoneHref: 'tel:+9779740558155',
   portfolioUrl: 'https://vishnubahadur.netlify.app',
   githubUrl: 'https://github.com/vishnubahadur',
   githubDisplay: 'github.com/vishnubahadur',
@@ -69,11 +69,11 @@ export const PROFILE = {
   heroHeadlineItalic: 'front to back.',
   heroDeck:
     'Computer science graduate and MERN stack engineer: production experience at Startup Ed, real-time WebSocket systems, geospatial civic tools, and responsive React interfaces.',
-  bylineLocation: 'Reporting from Gurgaon, across React, Node.js, and MongoDB',
+  bylineLocation: 'Reporting from Butwal, across React, Node.js, and MongoDB',
   frontPageFacts: [
     { value: 'B. Tech', label: 'CSE · GJU S&T, Hissar' },
     { value: 'MERN', label: 'React · Node · Express · Mongo' },
-    { value: 'Gurgaon', label: 'India · IST · Remote-ready' },
+    { value: 'Butwal', label: 'Nepal · IST · Remote-ready' },
     { value: 'Open', label: 'Full-time & select roles' },
   ],
   bioParagraphs: [
